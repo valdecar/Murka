@@ -1,10 +1,11 @@
 
 # Мурка
+```
 Мурка это программа, читающая текстовые книги вслух. 
 Поддерживает форматы текста txt и fb2. 
 Работает на Linux, Windows и, наверное, на Mac OS.
 Т.е.  кроссплатформенный книжный рассказчик, который может читать вслух текстовые книги в форматах txt и fb2.
-
+```
 ### Требования
 ```
 python3.2
@@ -34,27 +35,28 @@ NSSpeechSynthesizer на Mac OS (не тестировалось)
  ```
 ### Предупреждения
 ```
-If something not work try use it like root.
-(The reason is that pyttsx send text directly to driver and it's not always permitted). 
-If that not help, run 
+Если что-то не работает, запустить с правами root.
+(Причина в том, что pyttsx посылает текст прямо в драйвер, а это не всегда разрешено). 
+Если не поможет, запустить
 python3 gui.py 
-in terminal and figure out what's wrong.
+в терминале и смотреть что не так.
 
-Some books are very large so wait patiently while it loads.
+Некоторые книги очень велики, так что загрузка занимает время.
 
-Remember that pause button works only after sentence will ended
-(So not click at it million times, narrator stops when last sentence
-will be readed)  
+Клавиша pause останавливает отправку предложений драйверу 
+но не останавливает произношение мгновенно.
+(Т.о. читалка остановиться когда последнее предложение, отправленное драйверу,
+ будет произнесено). Так что не нужно тыкать по ней в надежде на мгновенный результат.  
 ```
 ### Использование
 ```
-You can either play books from file (in that case fb2 and some txt) 
-or copy them directly to text frame (after that click update button 
-and save as new if needed). 
+Вы можете либо проигрывать книги из текстового файла (форматов .fb2 .txt) 
+либо копировать их напрямую в текстовый фрейм (после этого не забыть нажать update 
+и save_as_new если надо). 
 
-You can also modify a text in text frame (but not forget the update button).
+Вы можете также изменять текст прямо в фрейме (но не забыть про клавишу update).
 
-You can use Space key for play/pause but not forget that pause work not instantly. 
+Можно использовать Пробел для play/pause но не забыть, что pause не мгновенно. 
 ```
 
 

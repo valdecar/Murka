@@ -1,8 +1,9 @@
 # Murka
 Murka is cross platform books narrator that can voice text books in txt and fb2 formats.
 
-```
+
 ### requirement
+```
 python3.2
 espeak on Linux (only Ubuntu 14.04 and Debian was tested)
 
@@ -11,6 +12,7 @@ SAPI5 on Windows (only Windows 10 was tested)
 NSSpeechSynthesizer on Mac OS (not tested at all)
 ```
 ### installation and runing
+```
 1) unzip archive 
 2) Run program:
    Either 
@@ -24,7 +26,9 @@ NSSpeechSynthesizer on Mac OS (not tested at all)
       on Windows 
          right click at main.py 
          choice Run as Administrator button
+ ```
 ### Warning
+```
 If something not work try use it like root.
 (Reason is in that pyttsx send text directly to driver and it not always permitted). 
 If that not help, run 
@@ -36,6 +40,7 @@ Some books are very large so wait patiently while it loads.
 Remember that payse button works only after sentence will ended
 (So not click at it million times, narrator stops when last sentence
 will be read)  
+```
 ### usage
 ```
 You can either play books from file (in that case fb2 and some txt) 
@@ -50,5 +55,7 @@ You can use Space key for play/pause but not forget that pause work not instantl
 
 ### References:
 ### Acknowledgments
+```
 pyttsx: http://pyttsx.readthedocs.io/en/latest/index.html
 And, of course, those people, who work at espeak, SAPI5, NSSpeechSynthesizer.
+```

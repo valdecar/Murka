@@ -1,11 +1,11 @@
 # Murka
-Murka is an cross platform books narrator that can voice text books in txt and fb2 formats.
+Murka is an free, cross platform books narrator that can voice text books in txt and fb2 formats.
 
 
 ### requirement
 ```
 python3.2
-espeak on Linux (only Ubuntu 14.04 and Debian was tested)
+espeak on Linux (only Ubuntu 14.04 and Debian Wheezy Sid was tested )
 
 SAPI5 on Windows (only Windows 10 was tested)
 
@@ -15,9 +15,11 @@ NSSpeechSynthesizer on Mac OS (not tested at all)
 ```
 1) unzip archive 
 2) Run program:
-   Either 
-      (go in Murka folder)
-      python3 gui.py
+   Either
+      Open terminal,
+      go in Murka folder
+      run:
+         python3 gui.py
    or 
       on Linux (work only in non ntfs file systems):
          cd Murka
@@ -43,7 +45,7 @@ will be readed)
 ```
 ### usage
 ```
-You can either play books from file (in that case fb2 and some txt) 
+You can either play books from text file (in that case .fb2 and some .txt) 
 or copy them directly to text frame (after that click update button 
 and save as new if needed). 
 

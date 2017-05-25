@@ -37,7 +37,7 @@ in terminal and figure out what's wrong.
 
 Some books are very large so wait patiently while it loads.
 
-Remember that payse button works only after sentence will ended
+Remember that pause button works only after sentence will ended
 (So not click at it million times, narrator stops when last sentence
 will be read)  
 ```
@@ -46,7 +46,9 @@ will be read)
 You can either play books from file (in that case fb2 and some txt) 
 or copy them directly to text frame (after that click update button 
 and save as new if needed). 
-You can also modify a text in text frame (but not forget update button).
+
+You can also modify a text in text frame (but not forget the update button).
+
 You can use Space key for play/pause but not forget that pause work not instantly. 
 ```
 

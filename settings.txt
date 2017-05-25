@@ -1,0 +1,1 @@
+{'myFontTagSelected': (70, 70, 70), 'myFontTag': (200, 200, 200), 'myFontTagSelectedCurrently': (130, 130, 130)}

@@ -11,7 +11,7 @@ SAPI5 on Windows (only Windows 10 was tested)
 
 NSSpeechSynthesizer on Mac OS (not tested at all)
 ```
-### installation and runing
+### installation and running
 ```
 1) unzip archive 
 2) Run program:
@@ -27,7 +27,7 @@ NSSpeechSynthesizer on Mac OS (not tested at all)
          right click at main.py 
          choice Run as Administrator button
  ```
-### Warning
+### Warnings
 ```
 If something not work try use it like root.
 (Reason is in that pyttsx send text directly to driver and it not always permitted). 

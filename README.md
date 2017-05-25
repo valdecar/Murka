@@ -53,7 +53,7 @@ You can use Space key for play/pause but not forget that pause work not instantl
 ```
 
 
- ![alt tag](https://raw.githubusercontent.com/valdecar/NavierStokes/master/screen_overview.png)
+ ![alt tag](https://raw.githubusercontent.com/valdecar/Murka/master/screen_overview.png)
 
 ### References:
 ### Acknowledgments

@@ -30,7 +30,7 @@ NSSpeechSynthesizer on Mac OS (not tested at all)
 ### Warnings
 ```
 If something not work try use it like root.
-(Reason is in that pyttsx send text directly to driver and it not always permitted). 
+(The reason is that pyttsx send text directly to driver and it's not always permitted). 
 If that not help, run 
 python3 gui.py 
 in terminal and figure out what's wrong.
@@ -39,7 +39,7 @@ Some books are very large so wait patiently while it loads.
 
 Remember that pause button works only after sentence will ended
 (So not click at it million times, narrator stops when last sentence
-will be read)  
+will be readed)  
 ```
 ### usage
 ```

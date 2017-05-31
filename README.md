@@ -1,6 +1,9 @@
 # Murka
 Murka is an free, cross platform books narrator that can voice text books in txt and fb2 formats.
 
+### screenshots
+
+ ![alt tag](https://raw.githubusercontent.com/valdecar/Murka/master/screen_overview.png)
 
 ### requirement
 ```
@@ -55,7 +58,6 @@ You can use Space key for play/pause but not forget that pause work not instantl
 ```
 
 
- ![alt tag](https://raw.githubusercontent.com/valdecar/Murka/master/screen_overview.png)
 
 ### References:
 ### Acknowledgments

@@ -9,6 +9,7 @@ Open Source
 Т.е. свободный кроссплатформенный книжный рассказчик, 
 который может читать вслух текстовые книги в форматах txt и fb2.
 ```
+![alt tag](https://raw.githubusercontent.com/valdecar/Murka/master/screen_overview.png)
 ### Требования
 ```
 python3.2
@@ -63,7 +64,7 @@ python3 gui.py
 ```
 
 
- ![alt tag](https://raw.githubusercontent.com/valdecar/Murka/master/screen_overview.png)
+ 
 
 ### References:
 ### Благодарности
